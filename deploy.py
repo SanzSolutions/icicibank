@@ -1,3 +1,1 @@
- This is new added line  
-
-This file is belongsfto python script
+ This file is belongs to python script
